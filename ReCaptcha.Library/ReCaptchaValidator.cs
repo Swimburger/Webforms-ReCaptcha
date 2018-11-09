@@ -6,7 +6,7 @@ using System.Web.UI.WebControls;
 
 namespace ReCaptcha.Library
 {
-    public class ReCaptchaValidator : CustomValidator
+    public class ReCaptchaValidator : BaseValidator
     {
         protected override bool ControlPropertiesValid()
         {
