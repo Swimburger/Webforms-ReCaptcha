@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2048
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReCaptcha.Site", "ReCaptcha\ReCaptcha.Site.csproj", "{ABA6BDB0-49F9-4623-A689-04C0F738C074}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReCaptcha.Site", "ReCaptcha.Site\ReCaptcha.Site.csproj", "{ABA6BDB0-49F9-4623-A689-04C0F738C074}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReCaptcha.Library", "ReCaptcha.Library\ReCaptcha.Library.csproj", "{E608724A-4A35-4C83-A6B8-4FA4318D7941}"
 EndProject
