@@ -4,7 +4,7 @@ using System.Web.UI.WebControls;
 
 namespace ReCaptcha.Library
 {
-    [ToolboxData("<{0}:Challenge runat=server></{0}:ReCaptcha>")]
+    [ToolboxData("<{0}:Challenge runat=server></{0}:Challenge>")]
     public class Challenge : WebControl
     {
         protected override void RenderContents(HtmlTextWriter output)
